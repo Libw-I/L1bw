@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Libw·I</h1>
 <h3 align="center">"NetworkError::ConnectionReset"</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l1bw&label=Profile%20views&color=0e75b6&style=flat" alt="l1bw" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=libw-i&label=Profile%20views&color=0e75b6&style=flat" alt="libw-i" /> </p>
 
 <p align="left"> <a href="https://twitter.com/libw_i" target="blank"><img src="https://img.shields.io/twitter/follow/libw_i?logo=twitter&style=for-the-badge" alt="libw_i" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java、C#、SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/L1bw?tab=repositories](https://github.com/L1bw?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Libw-I?tab=repositories](https://github.com/Libw-I?tab=repositories)
 
 - 📝 I regularly write articles on [https://blog.libw.cc](https://blog.libw.cc)
 
